@@ -1,8 +1,23 @@
 {
-  "pack":{
-      "pack_format": 55,
-      "description":[
-          {"text":"Made by SwitchedCube","color":"aqua"}
-      ]
+  "pack": {
+    "description": [
+      {
+        "text": "By SwitchedCube ",
+        "color": "#FF631A"
+      },
+      {
+        "player": {
+          "name": "SwitchedCube"
+        }
+      }
+    ],
+    "min_format": [
+      65,
+      0
+    ],
+    "max_format": [
+      65,
+      0
+    ]
   }
 }
