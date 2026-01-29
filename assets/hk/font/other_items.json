@@ -1,0 +1,307 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/crystal_heart.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/ismas_tear.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/mantis_claw.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/monarch_wings.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/mothwing_cloak.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/abilities/shade_cloak.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0006"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/arcane_egg.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/city_crest.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/delicate_flower.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/elegant_key.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/godtuner.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/hallownest_seal.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/kings_idol.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/love_key.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/lumafly_lantern.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/map.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/rancid_egg.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/ruined_flower.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/shopkeeper_key.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/simple_key.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/tram_pass.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/collectible/wanderers_journal.png",
+            "ascent": 24,
+            "height": 32,
+            "chars": ["\u0022"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/channelled_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/coiled_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/dream_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/old_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/pale_ore.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/pure_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail/sharpened_nail.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0029"]
+        },
+
+        
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail_arts/cyclone_slash.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail_arts/dash_slash.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/nail_arts/great_slash.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0032"]
+        },
+        
+
+        {
+            "type": "bitmap",
+            "file": "hk:item/soul/ability_wheel.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/soul/mask_shard.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/soul/vessel_fragment.png",
+            "ascent": 6,
+            "height": 8,
+            "chars": ["\u0035"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/abyss_shriek.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/descending_dark.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/desolate_dive.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/howling_wraiths.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/shade_soul.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/spells/vengeful_spirit.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0041"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/charm_notch.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0042"]
+        }
+
+    ]
+}

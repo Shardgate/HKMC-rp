@@ -1,0 +1,237 @@
+{
+    "providers": [
+                {
+            "type": "bitmap",
+            "file": "hk:item/charm/stalwart_shell.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/soul_catcher.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/shaman_stone.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/soul_eater.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/dashmaster.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/sprintmaster.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/grubsong.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/unbreakable_heart.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/unbreakable_greed.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/unbreakable_strength.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/spell_twister.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/heavy_blow.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/quick_slash.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/longnail.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/mark_of_pride.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/fury_of_the_fallen.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/thorns_of_agony.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/defenders_crest.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/quick_focus.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/deep_focus.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/lifeblood_heart.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/lifeblood_core.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/jonis_blessing.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/hiveblood.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/spore_shroom.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/nailmasters_glory.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/dream_wielder.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/dreamshield.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/grimmchild.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0029"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/carefree_melody.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/kingsoul.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/void_heart.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["\u0032"]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "hk:item/charm/charm.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\u0033"]
+        }
+
+    ]
+}

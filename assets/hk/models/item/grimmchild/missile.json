@@ -1,0 +1,30 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made by SwitchedCube",
+	"textures": {
+		"1": "hk:item/grimmchild/missile"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"translation": [0, -25.25, -6],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

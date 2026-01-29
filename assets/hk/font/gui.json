@@ -1,0 +1,92 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u0002": -130
+            }
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u0003": -66
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:vessel/soul_meter.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "🤍"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:vessel/1.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "⚫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:vessel/2.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "🔘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:vessel/3.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "⚪"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "hk:mask/1.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "❤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:mask/2.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "🧡"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:mask/3.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "💛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "hk:mask/4.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "💚"
+            ]
+        }
+
+    ]
+}
