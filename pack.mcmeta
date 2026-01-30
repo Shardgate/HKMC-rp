@@ -8,15 +8,16 @@
       {
         "player": {
           "name": "SwitchedCube"
-        }
+        },
+        "color": "#ffffff"
       }
     ],
     "min_format": [
-      65,
+      69,
       0
     ],
     "max_format": [
-      65,
+      69,
       0
     ]
   }
