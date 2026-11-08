@@ -5,7 +5,7 @@
   "hk.extra_info.3" : "§dReset a player: §b/tag §e<player_name> §bremove hk.player.loaded",
   "hk.extra_info.4" : "§dGive HK items: §b/loot give §e<player name> §bloot hk:§e<item name>",
 
-  "hk.reload.message.global": "§6-- [HKMC] Datapack loaded --",
+  "hk.reload.message.global": "%s §bReloaded - Hover for more details",
   "hk.reload.message.admin": "§dOpen the Admin Menu: §b/function hk:admin_menu/open",
   "hk.reload.message.player": "§dOpen the Charm Menu: §b/trigger hk.charms.menu.open",
 
