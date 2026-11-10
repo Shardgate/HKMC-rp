@@ -6,6 +6,7 @@
   "hk.extra_info.4" : "§dGive HK items: §b/loot give §e<player name> §bloot hk:§e<item name>",
 
   "hk.reload.message.global": "%s §bReloaded - Hover for more details",
+  "hk.reload.message.wrong_version": "§6[HKMC] §cINCORRECT MC VERSION §c- Click to download new version",
   "hk.reload.message.admin": "§dOpen the Admin Menu: §b/function hk:admin_menu/open",
   "hk.reload.message.player": "§dOpen the Charm Menu: §b/trigger hk.charms.menu.open",
 
